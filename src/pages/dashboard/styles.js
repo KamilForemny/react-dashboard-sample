@@ -72,7 +72,7 @@ export default makeStyles(theme => ({
     paddingRight: theme.spacing(2),
   },
   serverOverviewElementChartWrapper: {
-    backgroundColor: "#383e48",
+    // backgroundColor: "#383e48",
     width: "100%",
   },
   mainChartBody: {
